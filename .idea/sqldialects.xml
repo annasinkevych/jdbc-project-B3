@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/day06_order_by.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task01_select.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task02_distinct.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task03_where.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task05_in.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task4_between.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/task03_multi_row_functinon.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/task04_group_by_functions.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/task1_review.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/task2_like.sql" dialect="Oracle" />
+  </component>
+</project>
