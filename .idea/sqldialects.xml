@@ -2,6 +2,8 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/src/test/resources/homework/day2/task1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/homework/day3/day2_tasks.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/homework/day4/day4_tasks.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/day06_order_by.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task01_select.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task02_distinct.sql" dialect="Oracle" />
@@ -12,5 +14,16 @@
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/task04_group_by_functions.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/task1_review.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/task2_like.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/Task04_rownum.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/task01_review.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/task03_subquery.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/task05_string_functions.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/task06_view.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/task07_ddl_dml.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/task2_having.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day04/Task1_joins.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day04/Task2_setOperators.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day04/Task3_Join.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day04_docuport/task1_docuport.sql" dialect="PostgreSQL" />
   </component>
 </project>
